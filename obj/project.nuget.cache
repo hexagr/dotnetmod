@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nOXsv4KIdNyQIDzaQUAIPler15WFh6Un5t7AXgjOBsKjSLB3+Fi6ZYfWNlPdVJK1mXzqZosFo3UZqTs5EYS/aA==",
+  "success": true,
+  "projectFilePath": "/home/kali/mod/dotnetmod.csproj",
+  "expectedPackageFiles": [
+    "/home/kali/.nuget/packages/dnlib/3.6.0/dnlib.3.6.0.nupkg.sha512",
+    "/home/kali/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
+    "/home/kali/.nuget/packages/system.reflection.emit.lightweight/4.7.0/system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

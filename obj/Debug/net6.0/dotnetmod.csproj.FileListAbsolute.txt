@@ -1,0 +1,17 @@
+/home/kali/mod/bin/Debug/net6.0/dotnetmod
+/home/kali/mod/bin/Debug/net6.0/dotnetmod.deps.json
+/home/kali/mod/bin/Debug/net6.0/dotnetmod.runtimeconfig.json
+/home/kali/mod/bin/Debug/net6.0/dotnetmod.dll
+/home/kali/mod/bin/Debug/net6.0/dotnetmod.pdb
+/home/kali/mod/bin/Debug/net6.0/dnlib.dll
+/home/kali/mod/obj/Debug/net6.0/dotnetmod.csproj.AssemblyReference.cache
+/home/kali/mod/obj/Debug/net6.0/dotnetmod.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/mod/obj/Debug/net6.0/dotnetmod.AssemblyInfoInputs.cache
+/home/kali/mod/obj/Debug/net6.0/dotnetmod.AssemblyInfo.cs
+/home/kali/mod/obj/Debug/net6.0/dotnetmod.csproj.CoreCompileInputs.cache
+/home/kali/mod/obj/Debug/net6.0/dotnetmod.csproj.CopyComplete
+/home/kali/mod/obj/Debug/net6.0/dotnetmod.dll
+/home/kali/mod/obj/Debug/net6.0/refint/dotnetmod.dll
+/home/kali/mod/obj/Debug/net6.0/dotnetmod.pdb
+/home/kali/mod/obj/Debug/net6.0/dotnetmod.genruntimeconfig.cache
+/home/kali/mod/obj/Debug/net6.0/ref/dotnetmod.dll
